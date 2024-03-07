@@ -12,7 +12,7 @@
         
         <!-- Mostrar productos de helados -->
         <div class="productos">
-            <?php include 'productos.php'; ?>
+            <?php include 'producto.php'; ?>
         </div>
         
         <!-- Carrito de compras -->
